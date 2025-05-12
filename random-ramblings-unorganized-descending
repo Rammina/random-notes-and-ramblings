@@ -1,1 +1,3 @@
+
+5/12/25
 - oh cloudwatch subscription filter doesnt directly accept a kinesis firehose delivery stream as a destination, only a kinesis stream ok
