@@ -1,3 +1,8 @@
+6/29/25
+- it is weird that an AWS Control Tower account fails its prerequisites for some reason, and then making a single EC2 instance fixes this issue. I mean, it happened to me and I saw a vid on it
+- really weird phenomena
+- made me read further on Prerequisite: Automated pre-launch checks for your management account
+
 6/25/25
 - imagine not just using chocolatey to upgrade terraform version
 - imagine going to the website to bother downloading the binary files
