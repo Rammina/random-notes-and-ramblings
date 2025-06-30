@@ -1,3 +1,6 @@
+6/30/25
+- having a route to the transit gateway isn't enough, you also need to ensure that a transit gateway attachment exists in the same AZ as the subnet sending the traffic, or the traffic will not be forwarded (it just gets dropped).
+
 6/29/25
 - it is weird that an AWS Control Tower account fails its prerequisites for some reason, and then making a single EC2 instance fixes this issue. I mean, it happened to me and I saw a vid on it
 - really weird phenomena
