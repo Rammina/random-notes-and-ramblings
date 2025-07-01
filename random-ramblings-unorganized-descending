@@ -6,6 +6,8 @@ TODO:
 - Blackhole routing can be an alternate means to mitigate DDoS attacks and block other malicious traffic. By discarding traffic intended for certain IP addresses, blackholing may improve network performance and reduce congestion.
 - When dynamic routing is used with a VPN attachment or a Direct Connect gateway attachment, you can propagate the routes learned from the on-premises router through BGP to any of the transit gateway route tables.
 - When dynamic routing is used with a VPN attachment, the routes in the route table associated with the VPN attachment are advertised to the customer gateway through BGP.
+- You can peer two transit gateways, and route traffic between them.
+- AWS Transit Gateway only shows a preferred route. example: Direct Connect gateway is preferred over Site-to-Site VPN (only serves as a backup route that will only display when DC gateway is no longer advertised). 
 
 6/30/25
 - having a route to the transit gateway isn't enough, you also need to ensure that a transit gateway attachment exists in the same AZ as the subnet sending the traffic, or the traffic will not be forwarded (it just gets dropped).
