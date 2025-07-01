@@ -4,6 +4,8 @@ TODO:
 7/01/25
 - A black hole simply is a route that goes nowhere. (e.g. a route towards a since-then deleted network interface/instance)
 - Blackhole routing can be an alternate means to mitigate DDoS attacks and block other malicious traffic. By discarding traffic intended for certain IP addresses, blackholing may improve network performance and reduce congestion.
+- When dynamic routing is used with a VPN attachment or a Direct Connect gateway attachment, you can propagate the routes learned from the on-premises router through BGP to any of the transit gateway route tables.
+- When dynamic routing is used with a VPN attachment, the routes in the route table associated with the VPN attachment are advertised to the customer gateway through BGP.
 
 6/30/25
 - having a route to the transit gateway isn't enough, you also need to ensure that a transit gateway attachment exists in the same AZ as the subnet sending the traffic, or the traffic will not be forwarded (it just gets dropped).
