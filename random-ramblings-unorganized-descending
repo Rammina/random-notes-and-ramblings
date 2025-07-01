@@ -1,6 +1,10 @@
 TODO:
 - i think i need to read more on how ECMP works. Equal Cost Multipath (ECMP) routing
 
+7/01/25
+- A black hole simply is a route that goes nowhere. (e.g. a route towards a since-then deleted network interface/instance)
+- Blackhole routing can be an alternate means to mitigate DDoS attacks and block other malicious traffic. By discarding traffic intended for certain IP addresses, blackholing may improve network performance and reduce congestion.
+
 6/30/25
 - having a route to the transit gateway isn't enough, you also need to ensure that a transit gateway attachment exists in the same AZ as the subnet sending the traffic, or the traffic will not be forwarded (it just gets dropped).
 
