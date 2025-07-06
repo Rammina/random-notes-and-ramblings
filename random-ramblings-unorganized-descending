@@ -1,7 +1,8 @@
 TODO:
 - i think i need to read more on how ECMP works. Equal Cost Multipath (ECMP) routing
 
-
+7/06/25
+- finally reading on ECMP after putting off that shit for so long lmao
   
 7/02/25
 - EventBridge can listen to Trusted advisor checks' status changes, then you can trigger an event/target action based on rules defined by the dev.
