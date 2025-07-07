@@ -1,6 +1,11 @@
 TODO:
 - i think i need to read more on how ECMP works. Equal Cost Multipath (ECMP) routing
 
+7/07/25
+- The Amazon EC2 service provides virtual machines that emulate computer hardware, such as CPU, RAM and disk.
+- The AWS service cannot see "inside" your instance because it is running an Operating System (Linux or Windows). It is the operating system that controls how memory is allocated, so it is not possible to determine "Memory Utilization" purely by looking at the virtual hardware.
+- That's why the metrics provided are CPU Utilization, Network and Disk — they all involve the virtual hardware.
+
 7/06/25
 - finally reading on ECMP after putting off that shit for so long lmao
   
