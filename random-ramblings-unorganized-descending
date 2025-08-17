@@ -1,6 +1,10 @@
 TODO:
 - i think i need to read more on how ECMP works. Equal Cost Multipath (ECMP) routing
 
+8/17/25
+- GSI does not support strong read consistency 
+(ill try my best not to forget lmao)
+
 7/21/25
 - computer optimizer poggin
 
