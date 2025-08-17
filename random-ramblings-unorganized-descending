@@ -1,8 +1,11 @@
 TODO:
 - i think i need to read more on how ECMP works. Equal Cost Multipath (ECMP) routing
 
+8/18/25
+- DynamoDB Local secondary indexes (LSI) are created at the same time that you create a table. You cannot add a local secondary index to an existing table, nor can you delete any local secondary indexes that currently exist.
+
 8/17/25
-- GSI does not support strong read consistency 
+- DynamoDB Global secondary indexes (GSI) does not support strong read consistency 
 (ill try my best not to forget lmao)
 
 7/21/25
