@@ -5,6 +5,7 @@ TODO:
 - "The instance must be in the stopped state to modify its placement properties. You cannot change the tenancy of an instance from default to dedicated or host after you've launched it."
 - so yeah if a running instance doesnt let you modify its placement (`Modify instance placement` grayed out), then stop the instance first
 - source: https://stackoverflow.com/questions/58495959/modify-instance-placement-grayed-out-instance-is-stopped
+- LIST OF SHAREABLE AWS RESOURCES VIA RAM: https://docs.aws.amazon.com/ram/latest/userguide/shareable.html
 
 8/18/25
 - DynamoDB Local secondary indexes (LSI) are created at the same time that you create a table. You cannot add a local secondary index to an existing table, nor can you delete any local secondary indexes that currently exist.
