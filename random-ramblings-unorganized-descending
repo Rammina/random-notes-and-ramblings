@@ -1,5 +1,5 @@
 TODO:
-- i think i need to read more on how ECMP works. Equal Cost Multipath (ECMP) routing
+- i think i need to read more on how ECMP works. Equal Cost Multipath (ECMP) routing 
 
 8/25/25:
 - "The instance must be in the stopped state to modify its placement properties. You cannot change the tenancy of an instance from default to dedicated or host after you've launched it."
