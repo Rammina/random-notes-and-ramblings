@@ -1,5 +1,7 @@
-TODO:
-- i think i need to read more on how ECMP works. Equal Cost Multipath (ECMP) routing 
+9/10/25
+- TIL Apache Hive
+- it seems like Hive is built on top of Hadoop
+- a distributed, fault-tolerant data warehouse system that enables analytics at a massive scale. A data warehouse provides a central store of information that can easily be analyzed to make informed, data driven decisions. 
 
 8/25/25:
 - "The instance must be in the stopped state to modify its placement properties. You cannot change the tenancy of an instance from default to dedicated or host after you've launched it."
