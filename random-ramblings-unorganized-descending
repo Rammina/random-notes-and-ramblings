@@ -1,3 +1,7 @@
+9/18/25
+- if SG and NACL is allowing traffic and port type for that IP, the instance is also in a public subnet, then might wanna check if you have an Internet Gateway or not...
+- no IGW = you cannot reach 
+
 9/10/25
 - TIL Apache Hive 
 - it seems like Hive is built on top of Hadoop
