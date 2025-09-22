@@ -1,4 +1,5 @@
 9/22/25
+- S3 website hosting 403 Forbidden Error, often is missing permissions or block public access options is active
 - dont forget to add an Allow Read bucket policy when doing S3 website hosting. 
 - said bucket policy should look like this:
 
