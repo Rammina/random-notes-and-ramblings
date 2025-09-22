@@ -1,3 +1,29 @@
+9/22/25
+- dont forget to add an Allow Read bucket policy when doing S3 website hosting. 
+- said bucket policy should look like this:
+
+```
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadGetObject",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": [
+                "s3:GetObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::Bucket-Name/*"
+            ]
+        }
+    ]
+}
+```
+
+- it also should disable block public access options completely for it to be accessible on the browser.
+
+
 9/18/25
 - if SG and NACL is allowing traffic and port type for that IP, the instance is also in a public subnet, then might wanna check if you have an Internet Gateway or not...
 - no IGW = you cannot reach 
