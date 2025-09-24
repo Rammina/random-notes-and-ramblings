@@ -1,3 +1,12 @@
+9/24/25
+
+-just doing AWS IAM stuff, like:
+- AssumeRole for borrowing role permissions
+- creating a custom policy that gives a principal read-only permissions for IAM (all IAM resources and the IAM credential report)
+- randomly came across this image that reminds of IAM best practices: https://cybr.com/cloud-security/aws-iam-credentials-report-cheat-sheet/. it does point out some old practices that are kinda not best practice anymore.
+- IAM attribute-based access control
+- more AWS organizations stuff
+
 9/22/25
 - S3 website hosting 403 Forbidden Error, often is missing permissions or block public access options is active
 - dont forget to add an Allow Read bucket policy when doing S3 website hosting. 
