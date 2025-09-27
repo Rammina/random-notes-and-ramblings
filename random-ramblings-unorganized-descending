@@ -1,3 +1,6 @@
+9/27/25
+- IAM Roles for Service Accounts (IRSA) in Kubernetes on AWS, particularly with Amazon EKS, is a mechanism that allows you to grant AWS Identity and Access Management (IAM) permissions directly to Kubernetes Service Accounts. This enables your Kubernetes pods to securely access AWS resources without needing to store or manage AWS credentials within the pod or on the underlying EC2 instances.
+
 9/24/25
 
 -just doing AWS IAM stuff, like:
