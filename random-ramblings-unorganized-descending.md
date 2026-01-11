@@ -1,5 +1,5 @@
 1/11/26
--Duolingo French; AWS DevOps reviewing weak topics (CodeDeploy appspec.yml lifecycle hooks, fixed environment variables available since CodeDeploy has no custom env variables, CodeDeploy + NGINX log level scenario)
+- Duolingo French; AWS DevOps reviewing weak topics (CodeDeploy appspec.yml lifecycle hooks, fixed environment variables available since CodeDeploy has no custom env variables, CodeDeploy + NGINX log level scenario)
 
 9/27/25
 - IAM Roles for Service Accounts (IRSA) in Kubernetes on AWS, particularly with Amazon EKS, is a mechanism that allows you to grant AWS Identity and Access Management (IAM) permissions directly to Kubernetes Service Accounts. This enables your Kubernetes pods to securely access AWS resources without needing to store or manage AWS credentials within the pod or on the underlying EC2 instances.
