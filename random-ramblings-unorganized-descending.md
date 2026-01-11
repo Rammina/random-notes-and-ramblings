@@ -1,5 +1,9 @@
 1/11/26
 - AWS DevOps reviewing weak topics (CodeDeploy appspec.yml lifecycle hooks, fixed environment variables available since CodeDeploy has no custom env variables, CodeDeploy + NGINX log level scenario)
+- using AWS Step Functions is inappropriate when collecting the logs from your EC2 instances (attached to an ASG). you should use a CloudWatch agent instead.
+- review lifecycle of EC2 instances attached to ASG (scale in: Pending->Pending:Wait->Pending:Proceed and scale out: Terminating->Terminating:Wait->Terminating:Proceed)
+- unified CloudWatch Agent and metrics it can collect (system-level metrics, custom metrics)
+- utilizing EventBridge and Systems Manager Automation document to listen for termination lifecycle event, pause it and then collect logs before the instance gets put away by the ASG
 
 9/27/25
 - IAM Roles for Service Accounts (IRSA) in Kubernetes on AWS, particularly with Amazon EKS, is a mechanism that allows you to grant AWS Identity and Access Management (IAM) permissions directly to Kubernetes Service Accounts. This enables your Kubernetes pods to securely access AWS resources without needing to store or manage AWS credentials within the pod or on the underlying EC2 instances.
