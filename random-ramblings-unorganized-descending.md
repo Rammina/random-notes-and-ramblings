@@ -1,3 +1,6 @@
+1/28/26
+- reminder DynamoDB Global Tables don't need manual replication setup, and it also automatically enables DynamoDB Streams feature.
+
 1/11/26
 - AWS DevOps reviewing weak topics (CodeDeploy appspec.yml lifecycle hooks, fixed environment variables available since CodeDeploy has no custom env variables, CodeDeploy + NGINX log level scenario)
 - using AWS Step Functions is inappropriate when collecting the logs from your EC2 instances (attached to an ASG). you should use a CloudWatch agent instead.
