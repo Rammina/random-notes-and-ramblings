@@ -1,6 +1,7 @@
 9/22/26
 - should probably just show this to people who are cold or uncompetent to convince them to work on whichever they are lacking
 
+### Fiske's Stereotype Content Model (4 Quadrants)
 
 | Warmth (Intentions) | Competence (Capability) | Resulting Emotion | Behavior / Perception |
 | :--- | :--- | :--- | :--- |
@@ -9,7 +10,7 @@
 | **Low** | **Low** | **Contempt / Disgust** | **Ignored or neglected.** Viewed as having negative intentions and lacking capability (e.g., the homeless, welfare recipients). |
 | **High** | **High** | **Admiration / Pride** | **Trusted and followed.** Viewed as allies who are capable of delivering results (e.g., close teammates, revered leaders). |
 
-
+- If you want to succeed in the professional world, you'd want to have high levels of both competence and warmth.
 
 1/28/26
 - reminder DynamoDB Global Tables don't need manual replication setup, and it also automatically enables DynamoDB Streams feature.
