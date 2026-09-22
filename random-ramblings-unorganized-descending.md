@@ -1,7 +1,7 @@
 9/22/26
-- should probably just show this to people who are cold or uncompetent to convince them to work on whichever they are lacking
+- should probably just show this to people who are cold or incompetent to convince them to work on whichever they are lacking
 
-### Fiske's Stereotype Content Model (4 Quadrants)
+### S. Fiske's Stereotype Content Model (4 Quadrants)
 
 | Warmth (Intentions) | Competence (Capability) | Resulting Emotion | Behavior / Perception |
 | :--- | :--- | :--- | :--- |
