@@ -1,3 +1,16 @@
+9/22/26
+- should probably just show this to people who are cold or uncompetent to convince them to work on whichever they are lacking
+
+
+| Warmth (Intentions) | Competence (Capability) | Resulting Emotion | Behavior / Perception |
+| :--- | :--- | :--- | :--- |
+| **High** | **Low** | **Pity / Sympathy** | **Liked, pitied, but not followed.** Viewed as well-intentioned but helpless (e.g., the elderly, traditional housewives). |
+| **Low** | **High** | **Envy / Jealousy** | **Respected, feared, but sabotaged.** Viewed as capable but cold or untrustworthy (e.g., highly successful minority groups, cutthroat executives). |
+| **Low** | **Low** | **Contempt / Disgust** | **Ignored or neglected.** Viewed as having negative intentions and lacking capability (e.g., the homeless, welfare recipients). |
+| **High** | **High** | **Admiration / Pride** | **Trusted and followed.** Viewed as allies who are capable of delivering results (e.g., close teammates, revered leaders). |
+
+
+
 1/28/26
 - reminder DynamoDB Global Tables don't need manual replication setup, and it also automatically enables DynamoDB Streams feature.
 
