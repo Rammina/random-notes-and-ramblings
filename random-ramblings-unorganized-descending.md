@@ -1,5 +1,5 @@
 9/22/26
-- should probably just show this to people who are cold or incompetent to convince them to work on whichever they are lacking
+- should probably just show this to people who are cold or incompetent to convince them to work on whichever they are lacking.
 
 ### S. Fiske's Stereotype Content Model (4 Quadrants adjusted to the workplace)
 
