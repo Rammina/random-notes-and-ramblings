@@ -1,14 +1,16 @@
 9/22/26
 - should probably just show this to people who are cold or incompetent to convince them to work on whichever they are lacking
 
-### S. Fiske's Stereotype Content Model (4 Quadrants)
+### S. Fiske's Stereotype Content Model (4 Quadrants adjusted to the workplace)
 
-| Warmth (Intentions) | Competence (Capability) | Resulting Emotion | Behavior / Perception |
-| :--- | :--- | :--- | :--- |
-| **High** | **Low** | **Pity / Sympathy** | **Liked, pitied, but not followed.** Viewed as well-intentioned but helpless (e.g., the elderly, traditional housewives). |
-| **Low** | **High** | **Envy / Jealousy** | **Respected, feared, but sabotaged.** Viewed as capable but cold or untrustworthy (e.g., highly successful minority groups, cutthroat executives). |
-| **Low** | **Low** | **Contempt / Disgust** | **Ignored or neglected.** Viewed as having negative intentions and lacking capability (e.g., the homeless, welfare recipients). |
-| **High** | **High** | **Admiration / Pride** | **Trusted and followed.** Viewed as allies who are capable of delivering results (e.g., close teammates, revered leaders). |
+
+| Perceived Quadrant | Workplace Profile | Triggered Emotion | Behavioral Response | Common Workplace Examples |
+| :--- | :--- | :--- | :--- | :--- |
+| **High Warmth / High Competence** | **The Trusted Pillars**<br>High-performing allies who share resources and lift the team up. | **Pride & Admiration** | **Active Facilitation:** People actively support them, champion their ideas, and want to work on their projects. | Star team players, highly competent mentors, or transparent, supportive leaders. |
+| **High Warmth / Low Competence** | **The Well-Meaning Underperformer**<br>Extremely friendly and well-liked, but routinely struggles to hit KPIs. | **Pity & Sympathy** | **Passive Facilitation (with Paternalism):** People tolerate them and step in to do their work for them, but micro-manage or pass them over for promotion. | The eager-to-please intern, a legacy employee whose skills have lapsed, or the "office cheerleader." |
+| **Low Warmth / High Competence** | **The Ruthless High-Flier**<br>Brilliant executors who get things done but are hyper-competitive or toxic. | **Envy & Resentment** | **Passive Cooperation / Active Harm:** People cooperate with them out of necessity, but will secretly rejoice or sabotage them if they slip up. | The toxic top salesman, the hyper-political executive, or an aggressive "cutthroat" department. |
+| **Low Warmth / Low Competence** | **The Office Disengaged**<br>Unreliable performers who also isolate themselves or complain constantly. | **Contempt & Disgust** | **Active Harm / Exclusion:** The team actively excludes them from key conversations, ignores their emails, or pushes for them to be managed out. | "Quiet quitters" who are openly cynical, or chronic underperformers who miss deadlines and blame others. |
+
 
 - If you want to succeed in the professional world, you'd want to have high levels of both competence and warmth.
 - It doesn't matter if it's fake at first, try to practice politeness/proper ethics, while at the same time, improving your skills regularly.
