@@ -11,6 +11,7 @@
 | **High** | **High** | **Admiration / Pride** | **Trusted and followed.** Viewed as allies who are capable of delivering results (e.g., close teammates, revered leaders). |
 
 - If you want to succeed in the professional world, you'd want to have high levels of both competence and warmth.
+- It doesn't matter if it's fake at first, try to practice politeness/proper ethics, while at the same time, improving your skills regularly.
 
 1/28/26
 - reminder DynamoDB Global Tables don't need manual replication setup, and it also automatically enables DynamoDB Streams feature.
