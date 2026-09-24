@@ -1,3 +1,58 @@
+# Influence Check
+*A 60-second checklist before you nudge someone toward a decision or action.*
+
+## Step 0: Name it
+- My goal is: ______________________
+- The way I'm going about it is: ______________________
+
+*If you can't write it plainly, pause before sending.*
+
+## Test 1: Disclosure — Could I say it out loud?
+- [ ] I can state my goal and my method to them in plain words.
+- [ ] If they saw my notes or a screenshot of my plan, they'd feel respected, not used.
+- [ ] I'm not hiding a stake, a decision already made, or allies lined up behind the scenes.
+
+**Red flags:** Planting ideas through others · "casual" suggestions that were engineered · sounding neutral while holding a stake
+
+## Test 2: Decline — Can they say no?
+- [ ] A real "no" is available, and I've said so.
+- [ ] Saying no costs them no warmth, standing, or goodwill from me.
+- [ ] Any deadline or urgency I mention is real.
+
+**Red flags:** Guilt lines ("I'll just do it myself") · "everyone already agreed" · going cold after a no · invented urgency
+
+## Test 3: Endorsement — Will they agree it was fair?
+- [ ] My appeal speaks to their own goals and values, not a soft spot.
+- [ ] I'm not leveraging insecurity, fear of missing out, or their need for my approval.
+- [ ] Once they fully understand, I expect they'd say "fair enough."
+
+**Red flags:** Identity challenges ("I thought you were someone who...") · praise used as a lever · withholding what would change their choice
+
+## How to read it
+- **All boxes ticked:** go ahead.
+- **Any box unticked:** pause and rewrite.
+- **Still unsure:** ask directly: *"Here's what I'm hoping for. How does that land?"*
+
+## Instead of... try...
+| Instead of... | Try... |
+|---|---|
+| "I guess I'll just do it all myself." | "I could really use help with X. Would you be up for it? No pressure." |
+| "Everyone's already on board." | "Three people support it and two have concerns. I'd like your honest view." |
+| "I thought you were the type to step up." | "You mentioned wanting more leadership experience. This could be a step toward it." |
+| Quietly lining up allies before a vote. | "I lean toward B and have talked with a few people. Please challenge it." |
+
+## Fine as is
+Humor, emotion, stories, truthful positive framing, tactful timing, and ordinary discretion (like a surprise party) are all fine.
+
+## If you slip
+"I nudged you earlier without being upfront. What I actually want is ___. You're free to say no."
+
+---
+*Influence survives being explained. Manipulation does not.*
+
+
+
+
 9/22/26
 - should probably just show this to people who are cold or incompetent to convince them to work on whichever they are lacking.
 
