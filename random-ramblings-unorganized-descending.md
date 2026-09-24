@@ -1,54 +1,43 @@
-# Influence Check
-*A 60-second checklist before you nudge someone toward a decision or action.*
+# Influence, Not Manipulation — The Pre-Send Checklist
 
-## Step 0: Name it
-- My goal is: ______________________
-- The way I'm going about it is: ______________________
+*Run through this before a persuasive message, DM, or conversation. If every box checks out, send it. It takes about 60 seconds.*
 
-*If you can't write it plainly, pause before sending.*
+## The 3 Tests
 
-## Test 1: Disclosure — Could I say it out loud?
-- [ ] I can state my goal and my method to them in plain words.
-- [ ] If they saw my notes or a screenshot of my plan, they'd feel respected, not used.
-- [ ] I'm not hiding a stake, a decision already made, or allies lined up behind the scenes.
+### ☐ 1. Disclosure Test — "Could I say this out loud?"
+If they saw exactly what I'm doing and why, would they feel respected or used?
+- ☐ I could state my goal openly without the approach falling apart.
+- ☐ I'm not staging anything (planted suggestions, fake spontaneity, hidden bias).
+- ☐ I've shared everything they'd need to know to decide freely.
 
-**Red flags:** Planting ideas through others · "casual" suggestions that were engineered · sounding neutral while holding a stake
+### ☐ 2. Decline Test — "Is 'no' really allowed?"
+Can they refuse without losing my warmth, their standing, or anything else?
+- ☐ I've made it easy to say no ("no pressure, and it's fine if it doesn't fit").
+- ☐ No guilt lines, false urgency, or "everyone else already agreed."
+- ☐ If they refuse, I will treat them exactly the same afterward.
 
-## Test 2: Decline — Can they say no?
-- [ ] A real "no" is available, and I've said so.
-- [ ] Saying no costs them no warmth, standing, or goodwill from me.
-- [ ] Any deadline or urgency I mention is real.
+### ☐ 3. Endorsement Test — "Would they approve of my method?"
+Once they fully understand how I persuaded them, would they call it fair?
+- ☐ I'm appealing to *their* goals and values, not their insecurities.
+- ☐ Emotion, humor, and stories here inform the choice — they don't cloud it.
+- ☐ I'd be comfortable if this message were screenshotted and shared.
 
-**Red flags:** Guilt lines ("I'll just do it myself") · "everyone already agreed" · going cold after a no · invented urgency
+## Quick Reference
 
-## Test 3: Endorsement — Will they agree it was fair?
-- [ ] My appeal speaks to their own goals and values, not a soft spot.
-- [ ] I'm not leveraging insecurity, fear of missing out, or their need for my approval.
-- [ ] Once they fully understand, I expect they'd say "fair enough."
-
-**Red flags:** Identity challenges ("I thought you were someone who...") · praise used as a lever · withholding what would change their choice
-
-## How to read it
-- **All boxes ticked:** go ahead.
-- **Any box unticked:** pause and rewrite.
-- **Still unsure:** ask directly: *"Here's what I'm hoping for. How does that land?"*
-
-## Instead of... try...
-| Instead of... | Try... |
+| 🟢 Influence (fine) | 🔴 Manipulation (stop) |
 |---|---|
-| "I guess I'll just do it all myself." | "I could really use help with X. Would you be up for it? No pressure." |
-| "Everyone's already on board." | "Three people support it and two have concerns. I'd like your honest view." |
-| "I thought you were the type to step up." | "You mentioned wanting more leadership experience. This could be a step toward it." |
-| Quietly lining up allies before a vote. | "I lean toward B and have talked with a few people. Please challenge it." |
+| Stating your goal and your bias | Hiding the goal so the method works |
+| A real deadline, with the reason | Invented urgency to cut off thinking |
+| "You said you wanted X — this fits" | Poking an insecurity to get a yes |
+| Warmth that stays after a "no" | Warmth that switches off at "no" |
+| Vivid stories that inform | Framing that misleads |
 
-## Fine as is
-Humor, emotion, stories, truthful positive framing, tactful timing, and ordinary discretion (like a surprise party) are all fine.
+**Gray areas that are OK:** tact, timing, not volunteering every thought, surprise parties, emphasizing the positives — as long as nothing they need for a free choice is hidden.
 
-## If you slip
-"I nudged you earlier without being upfront. What I actually want is ___. You're free to say no."
+**The one-line version:** *If it only works while hidden, or it makes "no" costly — don't send it.*
 
----
-*Influence survives being explained. Manipulation does not.*
+**Why it matters for you:** Discovered manipulation costs more trust than any single "yes" is worth — and trust is the only currency an online leader has.
+
 
 
 
